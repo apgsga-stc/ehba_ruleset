@@ -69,16 +69,16 @@ layout:
 
 #### **6.1.3.2. Body Interference**&#x20;
 
-* **6.1.3.2.1.** <mark style="background-color:yellow;">A body interference infraction</mark> is called when a player initiates physical contact with an opponent who is not in possession.
+* **6.1.3.2.1.** <mark style="background-color:yellow;">A body interference</mark> infraction is called when a player initiates physical contact with an opponent who is not in possession.
   * **6.1.3.2.1.1.** Players challenging for possession of a loose ball may engage each other physically as per [6.3](section-6-infractions.md#id-6.3.-bodily-contact-infractions) within 3m of the ball.&#x20;
 
 #### **6.1.3.3. Mallet Interference**&#x20;
 
-* **6.1.3.3.1.** <mark style="background-color:yellow;">A mallet interference infraction</mark> is called when a player uses their mallet to initiate contact with the mallet of an opposing player who is not in possession or obstruct their free and open movement.&#x20;
-* **6.1.3.3.2.** A mallet interference infraction is called when a player uses their mallet to engage the mallet of the ball carrier on a ball that is not immediately playable for them.&#x20;
+* **6.1.3.3.1.** <mark style="background-color:yellow;">A mallet interference</mark> infraction is called when a player uses their mallet to initiate contact with the mallet of an opposing player who is not in possession or obstruct their free and open movement.&#x20;
+* **6.1.3.3.2.** <mark style="background-color:yellow;">A mallet interference</mark> infraction is called when a player uses their mallet to engage the mallet of the ball carrier on a ball that is not immediately playable for them.&#x20;
   * **6.1.3.3.2.1.** Incidental mallet contact will not result in a mallet interference infraction.&#x20;
-  * **6.1.3.3.2.2.** A mallet interference infraction will not be called when a defensive player within the crease clears the ball away while their teammate uses their mallet to initiates or continue contact with the mallet of the ball carrier within the crease.&#x20;
-*   **6.1.3.3.3.** A mallet interference infraction is called when a player uses their mallet to hook as per [6.4.6](section-6-infractions.md#id-6.4.6.-hooking) a member of an opposing team to concede possession to a member of their team.&#x20;
+  * **6.1.3.3.2.2.** <mark style="background-color:yellow;">A mallet interference</mark> infraction will not be called when a defensive player within the crease clears the ball away while their teammate uses their mallet to initiates or continue contact with the mallet of the ball carrier within the crease.&#x20;
+*   **6.1.3.3.3.** <mark style="background-color:yellow;">A mallet interference</mark> infraction is called when a player uses their mallet to hook as per [6.4.6](section-6-infractions.md#id-6.4.6.-hooking) a member of an opposing team to concede possession to a member of their team.&#x20;
 
     * **6.1.3.3.3.1.** A ball leaving the immediate vicinity of the players by approximately 3m will be considered a loose ball and will be deemed playable by any other player in the court.&#x20;
 
@@ -108,17 +108,17 @@ layout:
 
 ### **6.2.2. Toppling**&#x20;
 
-* **6.2.2.1.** A <mark style="background-color:yellow;">toppling infraction</mark> is called when a player causes one or more opponents to dab or crash during a contact in which they dab before or after the other player or players.&#x20;
+* **6.2.2.1.** A <mark style="background-color:yellow;">toppling</mark> infraction is called when a player causes one or more opponents to dab or crash during a contact in which they dab before or after the other player or players.&#x20;
 * **6.2.2.2.** A player in the process of losing their balance causes one or more opponent to dab or crash regains their balance solely by the contact with the dabbed player or players will be issued a toppling penalty.&#x20;
 
 ### **6.2.3. Bike Contact**&#x20;
 
 * **6.2.3.1.** A player who uses, accelerates or maneuvers their bike to initiate contact with the opponent or the opponent’s equipment is issued a bike contact infraction.&#x20;
-  * **6.2.3.1.1.** A <mark style="background-color:yellow;">T–bone bike contact infraction</mark> is called when a player initiates contact with an opponent, carrying momentum with their wheel or pedal into the opponent in the direction they are traveling.&#x20;
-  * **6.2.3.1.2.** A <mark style="background-color:yellow;">slapping bike contact infraction</mark> is called when a player initiates contact with an opponent by skidding or pivoting either wheel of their bike into the opponent laterally or rotationally.&#x20;
-  * **6.2.3.1.3.** A <mark style="background-color:yellow;">sweeping bike contact infraction</mark> is called when a player uses their front or rear wheel to make contact with a stationary player’s mallet that is firmly established and planted on the ground.&#x20;
-  * **6.2.3.1.4.** A <mark style="background-color:yellow;">pedaling bike contact infraction</mark> is called if two players are stationary in close contact and one player uses their pedal to initiate contact with an opponent or their equipment.&#x20;
-* **6.2.3.2.** Incidental <mark style="background-color:yellow;">bike–on–bike contact</mark> is defined as contact between two players vying for possession that does not affect play and is not dangerous.&#x20;
+  * **6.2.3.1.1.** A <mark style="background-color:yellow;">T–bone</mark> bike contact infraction is called when a player initiates contact with an opponent, carrying momentum with their wheel or pedal into the opponent in the direction they are traveling.&#x20;
+  * **6.2.3.1.2.** A <mark style="background-color:yellow;">slapping</mark> bike contact infraction is called when a player initiates contact with an opponent by skidding or pivoting either wheel of their bike into the opponent laterally or rotationally.&#x20;
+  * **6.2.3.1.3.** A <mark style="background-color:yellow;">sweeping</mark> bike contact infraction is called when a player uses their front or rear wheel to make contact with a stationary player’s mallet that is firmly established and planted on the ground.&#x20;
+  * **6.2.3.1.4.** A <mark style="background-color:yellow;">pedaling</mark> bike contact infraction is called if two players are stationary in close contact and one player uses their pedal to initiate contact with an opponent or their equipment.&#x20;
+* **6.2.3.2.** Incidental <mark style="background-color:yellow;">bike–on–bike</mark> contact is defined as contact between two players vying for possession that does not affect play and is not dangerous.&#x20;
   * **6.2.3.2.1.** No penalty is issued for bike contact deemed incidental.&#x20;
 * **6.2.3.3.** The Main Referee holds discretion to call bike contact penalties for infractions not explicitly outlined if the bike contact causes a dab or prevents reasonable open movement on the court.
 
@@ -128,7 +128,7 @@ layout:
 
 ### **6.3.1. Extension**&#x20;
 
-* **6.3.1.1.** An <mark style="background-color:yellow;">extension infraction</mark> is called when a player extends their arm to use their elbow, forearm, or hand to initiate contact with another player or push another player after contact has been initiated.
+* **6.3.1.1.** An <mark style="background-color:yellow;">extension</mark> infraction is called when a player extends their arm to use their elbow, forearm, or hand to initiate contact with another player or push another player after contact has been initiated.
   * **6.3.1.1.1.** Principle physical contact must be made with the shoulder when engaging with an opponent.&#x20;
   * **6.3.1.1.2.** A player may tuck their arm up close to their body during the initiation and disengagement of contact.&#x20;
   * **6.3.1.1.3.** An extension infraction is only called if the player extends their arm upwards or outwards from the shoulder to initiate or disengage contact in a pushing, stabbing or punching manner.
@@ -136,33 +136,33 @@ layout:
 ### **6.3.2. Charging**&#x20;
 
 * **6.3.2.1.** A player that is initiating contact has the responsibility to meet the opposing player “high and even.”&#x20;
-  * **6.3.2.1.1.** Contact to a player’s lower back, kidney, or ribs; or contact that carries momentum through an opponent from behind is issued a <mark style="background-color:yellow;">Charging penalty</mark>.&#x20;
+  * **6.3.2.1.1.** Contact to a player’s lower back, kidney, or ribs; or contact that carries momentum through an opponent from behind is issued a <mark style="background-color:yellow;">Charging</mark> penalty.&#x20;
 
 ### **6.3.3. Holding**&#x20;
 
-* **6.3.3.1.** A <mark style="background-color:yellow;">holding infraction</mark> is issued when a player impedes the movement of an opposing player by holding their mallet, body, or bike with their body.&#x20;
+* **6.3.3.1.** A <mark style="background-color:yellow;">holding</mark> infraction is issued when a player impedes the movement of an opposing player by holding their mallet, body, or bike with their body.&#x20;
 
 ### **6.3.4. Kicking**&#x20;
 
-* **6.3.4.1.** A <mark style="background-color:yellow;">kicking infraction</mark> is issued a Minor penalty when a player kicks an opposing player’s body, equipment, or the ball.&#x20;
+* **6.3.4.1.** A <mark style="background-color:yellow;">kicking</mark> infraction is issued a Minor penalty when a player kicks an opposing player’s body, equipment, or the ball.&#x20;
 
 ### **6.3.5. Head Contact**&#x20;
 
-* **6.3.5.1.** A <mark style="background-color:yellow;">head contact infraction</mark> is called when a player initiates contact with an opponent’s head or neck with any part of their body.&#x20;
+* **6.3.5.1.** A <mark style="background-color:yellow;">head contact</mark> infraction is called when a player initiates contact with an opponent’s head or neck with any part of their body.&#x20;
 
 ### **6.3.6. Handlebar Contact**&#x20;
 
-* **6.3.6.1.** A <mark style="background-color:yellow;">handlebar contact infraction</mark> is called when a player initiates contact with an opposing player’s handlebar.&#x20;
+* **6.3.6.1.** A <mark style="background-color:yellow;">handlebar contact</mark> infraction is called when a player initiates contact with an opposing player’s handlebar.&#x20;
 
 ### **6.3.7. Steering Arm Contact**&#x20;
 
-* **6.3.7.1.** A <mark style="background-color:yellow;">steering arm contact infraction</mark> is called when a player initiates contact with an opposing player’s steering arm below the shoulder carrying momentum in the direction they are traveling.&#x20;
+* **6.3.7.1.** A <mark style="background-color:yellow;">steering arm contact</mark> infraction is called when a player initiates contact with an opposing player’s steering arm below the shoulder carrying momentum in the direction they are traveling.&#x20;
 
 ### **6.3.8. Flagrance**&#x20;
 
-* **6.3.8.1.** A <mark style="background-color:yellow;">flagrance infraction</mark> is issued a Major penalty when a player uses excessive or disproportionate physical force on an opponent who is deemed by the Main Referee to be defenseless.&#x20;
+* **6.3.8.1.** A <mark style="background-color:yellow;">flagrance</mark> infraction is issued a Major penalty when a player uses excessive or disproportionate physical force on an opponent who is deemed by the Main Referee to be defenseless.&#x20;
   * **6.3.8.1.1.** Physical contact will be deemed excessive when a player engages in a way such that they cause themselves to crash.&#x20;
-* **6.3.8.2.** A <mark style="background-color:yellow;">flagrance infraction</mark> is called if the player initiating physical contact abandons the tactical or strategic application of force in a manner deemed by the Main Referee to be reckless.
+* **6.3.8.2.** A <mark style="background-color:yellow;">flagrance</mark> infraction is called if the player initiating physical contact abandons the tactical or strategic application of force in a manner deemed by the Main Referee to be reckless.
 
 ## **6.4. Mallet and Ball Handling Infractions**&#x20;
 
@@ -174,57 +174,57 @@ layout:
 
 ### **6.4.2. Slashing**&#x20;
 
-*   **6.4.2.1.** A slashing infraction is called when a player swings at an opposing player’s mallet shaft or body with upward, downward or sideways motion by the following criteria:
+*   **6.4.2.1.** A <mark style="background-color:yellow;">slashing</mark> infraction is called when a player swings at an opposing player’s mallet shaft or body with upward, downward or sideways motion by the following criteria:
 
     * [x] A disproportionate response to otherwise natural play or in a violent fashion.
     * [x] Has the potential to cause damage or injury.&#x20;
 
 
 
-    * **6.4.2.1.1.** Contact with an opponent’s body or bike is not a requirement to issue a slashing penalty.&#x20;
+    * **6.4.2.1.1.** Contact with an opponent’s body or bike is not a requirement to issue a <mark style="background-color:yellow;">slashing</mark> penalty.&#x20;
 
 ### **6.4.3. Striking**&#x20;
 
-* **6.4.3.1.** A striking infraction is called when a player hits an opponent’s body with their mallet.&#x20;
+* **6.4.3.1.** A <mark style="background-color:yellow;">striking</mark> infraction is called when a player hits an opponent’s body with their mallet.&#x20;
 
 ### **6.4.4. High Sticking**&#x20;
 
-* **6.4.4.1.** A high sticking infraction is called when a player attempts to contact an airborne ball with the mallet at a height above the nearest opponent’s handlebars within approximately 3m.&#x20;
+* **6.4.4.1.** A <mark style="background-color:yellow;">high sticking</mark> infraction is called when a player attempts to contact an airborne ball with the mallet at a height above the nearest opponent’s handlebars within approximately 3m.&#x20;
   * **6.4.4.1.1.** A player located at a safe distance – approximately 3m or more – from their nearest opponent may place their mallet in the air, without swinging it, and deflect the ball to the ground directly below their mallet.&#x20;
   * **6.4.4.1.2.** A player is permitted to use their hand, with their mallet pointed straight down, to contact an airborne ball as per [4.7.2.1](section-4-ball-play.md#id-4.7.-grabbing).&#x20;
-* **6.4.4.2.** A high sticking infraction is called to all contact to a player’s body above the shoulders by an opponent’s mallet.&#x20;
-* **6.4.4.3.** A high sticking infraction is called if a scoop is raised above height of the player’s handlebar or an opponent’s handlebars within approximately 3m.&#x20;
-* **6.4.4.4.** Windup and follow through associated with normal shooting motion that extends above the height of the nearest opponent’s handlebars is only subject to a high sticking infraction if the Main Referee deems the swing to be unsafe or out of control in the following situations:
+* **6.4.4.2.** A <mark style="background-color:yellow;">high sticking</mark> infraction is called to all contact to a player’s body above the shoulders by an opponent’s mallet.&#x20;
+* **6.4.4.3.** A <mark style="background-color:yellow;">high sticking</mark> infraction is called if a scoop is raised above height of the player’s handlebar or an opponent’s handlebars within approximately 3m.&#x20;
+* **6.4.4.4.** Windup and follow through associated with normal shooting motion that extends above the height of the nearest opponent’s handlebars is only subject to a <mark style="background-color:yellow;">high sticking</mark> infraction if the Main Referee deems the swing to be unsafe or out of control in the following situations:
   * [x] If the shot requires a full rotation of the mallet from above the players head to the ground.
   * [x] If the follow-through of the back-hand swing extends above the nearest opponent’s handlebars.&#x20;
 
 ### **6.4.5. Jamming**&#x20;
 
-* **6.4.5.1.** A jamming infraction is called when a player causes an opponent to dab, or crash, by placing their mallet underneath their opponent’s front or rear wheel.&#x20;
+* **6.4.5.1.** A <mark style="background-color:yellow;">jamming</mark> infraction is called when a player causes an opponent to dab, or crash, by placing their mallet underneath their opponent’s front or rear wheel.&#x20;
   * **6.4.5.1.1.** No penalty is issued if a player incidentally rides over the firmly planted mallet of a static player.&#x20;
-* **6.4.5.2.** A jamming infraction is called when a player’s mallet gets caught in an opponent’s bike causing them to dab.&#x20;
+* **6.4.5.2.** A <mark style="background-color:yellow;">jamming</mark> infraction is called when a player’s mallet gets caught in an opponent’s bike causing them to dab.&#x20;
 
 ### **6.4.6. Hooking**
 
-* &#x20;**6.4.6.1.** A hooking infraction is called when a player hooks their mallet on an opposing player’s bike or body.&#x20;
-* **6.4.6.2.** A mallet hooking infraction is called when a player uses their mallet to impede the free movement of an opponent’s mallet by either hooking, pinning, entangling, or grappling it continuously for a period of time.&#x20;
+* &#x20;**6.4.6.1.** A <mark style="background-color:yellow;">hooking</mark> infraction is called when a player hooks their mallet on an opposing player’s bike or body.&#x20;
+* **6.4.6.2.** A <mark style="background-color:yellow;">mallet hooking</mark> infraction is called when a player uses their mallet to impede the free movement of an opponent’s mallet by either hooking, pinning, entangling, or grappling it continuously for a period of time.&#x20;
   * **6.4.6.2.1.** A player in close proximity to the ball such that they can directly play it may engage in mallet hooking in an attempt to gain possession.&#x20;
     * **6.4.6.2.1.1.** The ball must be within reach of the player prior to the attempt.&#x20;
     * **6.4.6.2.1.2.** Contact must be released the moment the ball leaved the immediate vicinity or it becomes unplayable by the hooking player.
 
 ### **6.4.7. Throwing**&#x20;
 
-* **6.4.7.1.** A throwing infraction is issued a Minor Penalty when a player throws any part of their equipment during the game in a way that does not affect play.&#x20;
-  * **6.4.7.1.1.** A player throwing any part of their equipment directly in front of their own net to prevent an opponent's shot a point will be awarded to the team who shot the ball and the player will receive a Major penalty.&#x20;
-* **6.4.7.2.** A throwing infraction is issued a Player Misconduct penalty when a player throws any part of their equipment during the game and it makes contact with another player, Officials, spectators, or it causes another player to crash.&#x20;
+* **6.4.7.1.** A <mark style="background-color:yellow;">throwing</mark> infraction is issued a Minor Penalty when a player throws any part of their equipment during the game in a way that does not affect play.&#x20;
+  * **6.4.7.1.1.** A player <mark style="background-color:yellow;">throwing</mark> any part of their equipment directly in front of their own net to prevent an opponent's shot a point will be awarded to the team who shot the ball and the player will receive a Major penalty.&#x20;
+* **6.4.7.2.** A <mark style="background-color:yellow;">throwing</mark> infraction is issued a Player Misconduct penalty when a player throws any part of their equipment during the game and it makes contact with another player, Officials, spectators, or it causes another player to crash.&#x20;
 
 ### **6.4.8. Mallet Dropping**&#x20;
 
 * **6.4.8.1.** A player is only allowed to have one mallet on the court at any given time.&#x20;
-  * **6.4.8.1.1.** A mallet dropping infraction is called if a player has two mallets in the field of play at the same time.&#x20;
+  * **6.4.8.1.1.** A <mark style="background-color:yellow;">mallet dropping</mark> infraction is called if a player has two mallets in the field of play at the same time.&#x20;
   * **6.4.8.1.2.** If a player’s mallet is broken, they may not drop it to retrieve another; they must immediately remove the entire mallet from play.&#x20;
   * **6.4.8.1.3.** If a player drops their mallet in the course of play, they must pick it up, and are not allowed to use a backup mallet until the original mallet has been removed from the court.&#x20;
 * **6.4.8.2.** Should a player drop their mallet, they may continue play without it.&#x20;
-  * **6.4.8.2.1.** A mallet dropping infraction is called if the dropped mallet causes a dab or affects play in any other way.&#x20;
+  * **6.4.8.2.1.** A <mark style="background-color:yellow;">mallet dropping</mark> infraction is called if the dropped mallet causes a dab or affects play in any other way.&#x20;
   * **6.4.8.2.2.** Defensive players may move the mallet of an offensive player if the ability to defend the goal is impeded.
 

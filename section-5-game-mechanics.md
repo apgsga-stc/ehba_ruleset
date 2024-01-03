@@ -203,7 +203,7 @@ layout:
     * **5.10.1.1.1.1**. A team not ready to play at the ten (10) second time limit past the two (2) minutes of their first timeout must request, if available, their second timeout to extend the stoppage of play.&#x20;
 * **5.10.1.2.** During any stoppage of play, either team may call for a timeout in order to extend the ten (10) second time-limit before play resumes.
   * **5.10.1.2.1.** The team who is entitled possession when the game restarts does not forfeit their possession to their opponent.&#x20;
-* **5.10.1.3.** During live game play, a team can call for a stoppage in play by gaining possession and audibly yelling <mark style="background-color:green;">“Timeout”</mark> to the Main Referee.&#x20;
+* **5.10.1.3.** During live game play, a team can call for a stoppage in play by gaining possession and audibly yelling <mark style="background-color:yellow;">“Timeout”</mark> to the Main Referee.&#x20;
   * **5.10.1.3.1.** The team forfeits possession to the opponent.&#x20;
     * **5.10.1.3.1.1.** Timeouts requested during live play due to a broken ball or an injured player requiring immediate medical attention will result in the team keeping possession after play restarts and have no influence on their team’s timeout allotment.&#x20;
     * **5.10.1.3.1.2.** At the expiration of the timeout, or when the team which called for the timeout declares they are ready, the game may restart as per [5.4](section-5-game-mechanics.md#id-5.4.-restart-of-play).&#x20;
@@ -220,7 +220,7 @@ layout:
     * **5.10.2.1.1.1.** A team not ready to play at the ten (10) second time limit past the one (1) minute of their first timeout must request, if available, their second timeout to extend the stoppage of play.&#x20;
 * **5.10.2.2.** On courts that do not permit changes during live play, teams may request up to two (2) additional 30 second timeouts for changing their lineup while in possession.&#x20;
 * **5.10.2.3.** Mechanical issues requiring repair on a player’s bike or equipment will result in the substitution of the player by another member of their team with no stoppage of play as per [5.13.1](section-5-game-mechanics.md#id-5.13.-bench-mechanics).&#x20;
-* **5.10.2.4.** During live game play, a team can call for a stoppage in play by gaining possession and audibly yelling <mark style="background-color:green;">“Timeout”</mark> to the Main Referee.&#x20;
+* **5.10.2.4.** During live game play, a team can call for a stoppage in play by gaining possession and audibly yelling <mark style="background-color:yellow;">“Timeout”</mark> to the Main Referee.&#x20;
   * **5.10.2.4.1.** The team forfeits possession to the opponent.&#x20;
     * **5.10.2.4.1.1.** Timeouts requested during live play due to a broken ball or an injured player requiring immediate medical attention will result in the team keeping possession after play restarts and have no influence on their team’s timeout allotment.&#x20;
     * **5.10.2.4.1.2.** At the expiration of the timeout, or when the team which called for the timeout declares they are ready, the game may restart as per [5.4](section-5-game-mechanics.md#id-5.4.-restart-of-play).&#x20;

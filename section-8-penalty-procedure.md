@@ -36,7 +36,7 @@ layout:
 ***
 
 * **8.3.1.** An infraction by the team not in possession may result in the delay of such penalty being enforced until a stoppage of play occurs.&#x20;
-  * **8.3.1.1.** During the delayed penalty, the team in possession is deemed to be in ‘advantage’&#x20;
+  * **8.3.1.1.** During the delayed penalty, the team in possession is deemed to be in <mark style="background-color:yellow;">‘advantage’</mark>&#x20;
   *   **8.3.1.2.** Any of the following criteria will result in a stoppage of play:
 
       * [x] The team in advantage scores.
@@ -48,7 +48,7 @@ layout:
       * [x] The ball is deflected out of the defensive crease of the team to be penalized by the body or equipment of a defender inside the crease.&#x20;
 
 
-* **8.3.2.** The Main Referee signals the delayed penalty according to [3.5.1.3](section-3-game-officials.md#id-3.5.1.-main-referee) and announces “advantage”.&#x20;
+* **8.3.2.** The Main Referee signals the delayed penalty according to [3.5.1.3](section-3-game-officials.md#id-3.5.1.-main-referee) and announces <mark style="background-color:yellow;">“advantage”</mark>.&#x20;
   * **8.3.2.1.** The Main Referee can choose to signal a delayed penalty with a noise-making device – such as a cowbell – that is discernible from a whistle. The Main Referee must communicate this choice to both teams prior to the start of the game.&#x20;
 * **8.3.3.** No point can be awarded to the team to be penalized during the delayed penalty, except an own-goal by the team in advantage.&#x20;
 * **8.3.4.** If the team in advantage scores, possession is not regained after stoppage of play.&#x20;
@@ -63,15 +63,15 @@ layout:
 
 ***
 
-* **8.4.1.** A Coincidental Penalty is issued for simultaneous infractions by a member of each team.&#x20;
-* **8.4.2.** A Coincidental Penalty will cause a stoppage of play and restart with a joust as per [5.4](section-5-game-mechanics.md#id-5.4.-restart-of-play).&#x20;
+* **8.4.1.** A <mark style="background-color:yellow;">Coincidental Penalty</mark> is issued for simultaneous infractions by a member of each team.&#x20;
+* **8.4.2.** A <mark style="background-color:yellow;">Coincidental Penalty</mark> will cause a stoppage of play and restart with a joust as per [5.4](section-5-game-mechanics.md#id-5.4.-restart-of-play).&#x20;
   * **8.4.2.1.** A Coincidental Penalty that would be issued a Minor, Major or Player Misconduct Penalty will result in a 2-on-2 situation for the prescribed duration of the penalties issued regardless of points scored during this situation.
 
 ## **8.5. Player Advantage**&#x20;
 
 ***
 
-* **8.5.1.** A player being removed from play due to a Minor, Major or Player Misconduct Penalty being issued resulting in a 3-on-2 situation is called “Player Advantage”&#x20;
+* **8.5.1.** A player being removed from play due to a Minor, Major or Player Misconduct Penalty being issued resulting in a 3-on-2 situation is called <mark style="background-color:yellow;">“Player Advantage”</mark>&#x20;
   * **8.5.1.1.** On Minor penalties, the Main Referee may request the player to remain at the tap-in area closest to the Main Referee for the duration of the penalty.&#x20;
     * **8.5.1.1.1.** The offending player must not interfere with play while serving the penalty&#x20;
 * **8.5.2.** Play will restart as per [5.4](section-5-game-mechanics.md#id-5.4.-restart-of-play).&#x20;
