@@ -174,7 +174,7 @@ layout:
 {% tab title="Links" %}
 * [Rules Discussion](https://poloverse.net/c/chat/rules/10/none)
 * [EHBA\_ruleset.pdf](https://public.3.basecamp.com/p/ANrFuoiim1oPEwJcv1yDhwaN)
-* [NAHBPA Ruleset](https://www.nahardcourt.com/rules/)
+* [GitHub Repository](https://github.com/apgsga-stc/ehba\_ruleset/tree/main)
 {% endtab %}
 
 {% tab title="Contacts" %}
@@ -182,3 +182,4 @@ layout:
 * **Content related issues** should be addressed via [Rules Discussion on Poloverse](https://poloverse.net/c/chat/rules/10/none).
 {% endtab %}
 {% endtabs %}
+
