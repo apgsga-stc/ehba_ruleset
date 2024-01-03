@@ -15,7 +15,7 @@ layout:
 
 # 🏠 Main Page
 
-<figure><img src=".gitbook/assets/ehba logo.jpg" alt="" width="375"><figcaption><p>European Hardcourt BikePolo Association</p></figcaption></figure>
+<figure><img src=".gitbook/assets/ehba logo.jpg" alt="" width="188"><figcaption><p>European Hardcourt BikePolo Association</p></figcaption></figure>
 
 ## Table of Contents
 
