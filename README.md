@@ -28,6 +28,10 @@ layout:
 1. [Team Size](section-1-teams-players-and-equipment.md#id-1.1.-team-size)
 2. [Team Captains](section-1-teams-players-and-equipment.md#id-1.2.-team-captains)
 3. [Equipment](section-1-teams-players-and-equipment.md#id-1.3.-equipment)
+   1. [Uniforms](section-1-teams-players-and-equipment.md#id-1.3.1.-uniforms)
+   2. [Safety Equipment](section-1-teams-players-and-equipment.md#id-1.3.2.-safety-equipment)
+   3. [Mallets](section-1-teams-players-and-equipment.md#id-1.3.3.-mallets)
+   4. [Bicycles](section-1-teams-players-and-equipment.md#id-1.3.4.-bicycles)
 
 </details>
 
