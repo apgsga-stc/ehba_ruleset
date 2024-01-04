@@ -36,6 +36,12 @@ layout:
 <summary>2 – Game Facilities</summary>
 
 1. [Court](section-2-game-facilities.md#id-2.1.-court)
+   1. [Size](section-2-game-facilities.md#id-2.1.1.-size)
+   2. [Boards](section-2-game-facilities.md#id-2.1.2.-boards)
+   3. [Doors](section-2-game-facilities.md#id-2.1.3.-doors)
+   4. [Lines](section-2-game-facilities.md#id-2.1.4.-lines)
+   5. [Tap-in Area](section-2-game-facilities.md#id-2.1.5.-tap-in-area)
+   6. [Crease](section-2-game-facilities.md#id-2.1.6.-crease)
 2. [Goals](section-2-game-facilities.md#id-2.2.-goals)
 3. [Balls](section-2-game-facilities.md#id-2.3.-balls)
 
