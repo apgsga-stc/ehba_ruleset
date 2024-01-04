@@ -90,7 +90,9 @@ layout:
 
 <details>
 
-<summary><mark style="color:blue;">6.1 – Technical Infractions</mark></summary>
+<summary>6 – Infractions</summary>
+
+**6.1 – Technical Infractions**
 
 1. [Delay of Game](section-6-infractions.md#id-6.1.1.-delay-of-game)
 2. [Unsporting Behavior](section-6-infractions.md#id-6.1.2.-unsporting-behavior)
@@ -99,21 +101,17 @@ layout:
    2. [Body Interference](section-6-infractions.md#id-6.1.3.2.-body-interference)
    3. [Mallet Interference](section-6-infractions.md#id-6.1.3.3.-mallet-interference)
 
-</details>
 
-<details>
 
-<summary><mark style="color:blue;">6.2 – Bike Handling Infractions</mark></summary>
+**6.2 – Bike Handling Infractions**
 
 1. [Dabbing](section-6-infractions.md#id-6.2.1.-dabbing)
 2. [Toppling](section-6-infractions.md#id-6.2.2.-toppling)
 3. [Bike Contact](section-6-infractions.md#id-6.2.3.-bike-contact)
 
-</details>
 
-<details>
 
-<summary><mark style="color:blue;">6.3 – Bodily Contact Infractions</mark></summary>
+**6.3 – Bodily Contact Infractions**
 
 1. [Extension](section-6-infractions.md#id-6.3.1.-extension)
 2. [Charging](section-6-infractions.md#id-6.3.2.-charging)
@@ -124,11 +122,9 @@ layout:
 7. [Steering Arm Contact](section-6-infractions.md#id-6.3.7.-steering-arm-contact)
 8. [Flagrance](section-6-infractions.md#id-6.3.8.-flagrance)
 
-</details>
 
-<details>
 
-<summary><mark style="color:blue;">6.4 – Mallet and Ball Handling Infractions</mark></summary>
+**6.4 – Mallet and Ball Handling Infractions**
 
 1. [Illegal Ball Handling](section-6-infractions.md#id-6.4.1.-illegal-ball-handling)
 2. [Slashing](section-6-infractions.md#id-6.4.2.-slashing)
