@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🧑✈ Section 3: Game Officials
+# 👮 Section 3: Game Officials
 
 ## **3.1. Officials**&#x20;
 
