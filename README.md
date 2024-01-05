@@ -1,8 +1,7 @@
 ---
-description: This is a copy of the EHBA Official Ruleset based on version 230712.
 layout:
   title:
-    visible: true
+    visible: false
   description:
     visible: false
   tableOfContents:
@@ -10,7 +9,7 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # 🏠 Table of Contents
