@@ -13,13 +13,9 @@ layout:
     visible: true
 ---
 
-# 🏠 Main Page
+# 🏠 Table of Contents
 
 <figure><img src=".gitbook/assets/ehba logo.jpg" alt="" width="188"><figcaption><p>European Hardcourt BikePolo Association</p></figcaption></figure>
-
-## Table of Contents
-
-***
 
 <details>
 
@@ -172,8 +168,6 @@ layout:
 
 </details>
 
-***
-
 
 
 {% tabs %}
@@ -184,8 +178,7 @@ layout:
 {% endtab %}
 
 {% tab title="Contacts" %}
-* For **technical issues** contact [Sam on Poloverse](https://poloverse.net/u/sam/summary).
-* **Content related issues** should be addressed via [Rules Discussion on Poloverse](https://poloverse.net/c/chat/rules/10/none).
+* **Technical issues:** [Sam on Poloverse](https://poloverse.net/u/sam/summary)
+* **Content related issues:** [Rules Discussion on Poloverse](https://poloverse.net/c/chat/rules/10/none)
 {% endtab %}
 {% endtabs %}
-

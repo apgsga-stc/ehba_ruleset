@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏠 Main Page](README.md)
+* [🏠 Table of Contents](README.md)
 * [👥 Section 1: Teams, Players & Equipment](section-1-teams-players-and-equipment.md)
 * [🥅 Section 2: Game Facilities](section-2-game-facilities.md)
 * [🧑✈ Section 3: Game Officials](section-3-game-officials.md)

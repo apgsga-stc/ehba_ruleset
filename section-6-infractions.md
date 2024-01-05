@@ -170,7 +170,7 @@ layout:
 
 ### **6.4.1. Illegal Ball Handling**&#x20;
 
-* **6.4.1.1.** An illegal ball handling infraction is called for any ball play not permitted as per [Section 4](section-6-infractions.md).
+* **6.4.1.1.** An illegal ball handling infraction is called for any ball play not permitted as per [Section 4](section-4-ball-play.md).
 
 ### **6.4.2. Slashing**&#x20;
 
