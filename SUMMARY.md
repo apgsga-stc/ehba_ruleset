@@ -16,5 +16,8 @@
 
 * [🌐 Rules Discussion](https://poloverse.net/c/chat/rules/10/none)
 * [🌐 GitHub Repository](https://github.com/apgsga-stc/ehba\_ruleset\_2023/tree/main)
-* [🌐 Tech Support](https://poloverse.net/u/sam/summary)
+* [🌐 Website Support](https://poloverse.net/u/sam/summary)
+
+## Downloads
+
 * [💾 "EHBA ruleset 2023 - 230712.pdf"](https://public.3.basecamp.com/p/ANrFuoiim1oPEwJcv1yDhwaN)
