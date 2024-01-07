@@ -9,7 +9,7 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: false
+    visible: true
 ---
 
 # 🏑 Section 4: Ball Play

@@ -9,7 +9,7 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: false
+    visible: true
 ---
 
 # 🏠 Table of Contents
@@ -166,3 +166,4 @@ layout:
 6. [Personal Fouls](ruleset/section-8-penalty-procedure.md#id-8.6.-personal-fouls)
 
 </details>
+
