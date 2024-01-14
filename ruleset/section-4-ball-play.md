@@ -21,7 +21,7 @@ layout:
 * **4.1.1.** The player who made the last deliberate controlled touch on the ball with the mallet is considered to be <mark style="background-color:yellow;">in possession.</mark> The player in possession is referred to as the <mark style="background-color:yellow;">Ball Carrier.</mark>&#x20;
   *   **4.1.1.1.** No player is considered to be in possession, or possession is forfeited, if either:
 
-      * [x] The ball moves approximately 3m away from the Ball Carrier.
+      * [x] The ball moves approximately `3m` away from the Ball Carrier.
       * [x] The ball moves so quickly through a player's immediate proximity they cannot make more than one (1) controlled touch on the loose ball.
       * [x] The Ball Carrier is unable to continue playing the ball with the mallet.&#x20;
 

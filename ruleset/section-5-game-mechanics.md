@@ -41,7 +41,7 @@ layout:
 * **5.2.3.** Only one (1) player per team may joust.&#x20;
   * **5.2.3.1.** Jousting players must maintain a straight line until a player makes contact with the ball.&#x20;
   * **5.2.3.2.** Any player that is rushing towards the ball at a consistent pace is considered to be jousting.&#x20;
-    * **5.2.3.2.1.** Players may not desist jousting once they are approximately 3m away from the ball.&#x20;
+    * **5.2.3.2.1.** Players may not desist jousting once they are approximately `3m` away from the ball.&#x20;
   * **5.2.3.3.** A jousting player may not interfere with an opponents’ jousting trajectory.&#x20;
     * **5.2.3.3.1.** Any action by a jousting player deemed dangerous by the Main Referee will be issued a Major penalty.&#x20;
   * **5.2.3.4.** All other players cannot challenge for possession or place themselves in the path of a jousting player until possession has been established by one player, or both jousting players fail to gain possession as they pass the ball.
@@ -101,12 +101,12 @@ layout:
 * **5.4.1.** The Main Referee elicits verbal or visual confirmation that the team without possession is ready to begin play.&#x20;
   * **5.4.1.1.** The Main Referee may blow two short bursts on the whistle to elicit the confirmation of the team.&#x20;
   * **5.4.1.2.** If the team without possession does not communicate that they are ready within ten (10) seconds, a Delay of Game Penalty is issued as per [6.1.1](section-6-infractions.md#id-6.1.1.-delay-of-game).&#x20;
-* **5.4.2.** After the confirmation, the Main Referee indicates live play as per [3.5.1.2](section-3-game-officials.md#id-3.5.1.-main-referee) and announcing "10 seconds to cross".&#x20;
+* **5.4.2.** After the confirmation, the Main Referee indicates live play as per [3.5.1.2](section-3-game-officials.md#id-3.5.1.-main-referee) and announcing <mark style="background-color:yellow;">"10 seconds to cross"</mark>.&#x20;
   * **5.4.2.1.** If the team with possession does not begin play within 10 seconds of the other team confirming they are ready the team without possession can begin play by crossing the half-court line.&#x20;
-    * **5.4.2.1.1.** The Main Referee signals "game on”.&#x20;
+    * **5.4.2.1.1.** The Main Referee signals <mark style="background-color:yellow;">"game on”</mark>.&#x20;
     * **5.4.2.1.2.** The Game Assistant starts the game clock.&#x20;
   * **5.4.3.** Play begins and the clock starts when the ball or a player from the team in possession crosses the half–court line.&#x20;
-    * **5.4.3.1.** The Main Referee indicates the start of the clock by announcing "game on".
+    * **5.4.3.1.** The Main Referee indicates the start of the clock by announcing <mark style="background-color:yellow;">"game on"</mark>.
     * **5.4.3.2.** Players from the team not in possession cannot engage the other team prior to the start of play.
 
 ## **5.5. End of the Game**&#x20;

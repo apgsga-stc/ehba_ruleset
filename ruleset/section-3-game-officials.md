@@ -160,10 +160,10 @@ layout:
 * **3.5.2.2.** Missed shot/Invalid goal – Crosses arms and extends them outwards in a sweeping motion.&#x20;
 * **3.5.2.3.** False Start/Infraction – Extends an arm straight in the air and the other pointing at the player that committed the infraction.&#x20;
   * **3.5.2.3.1.** If a flag is available, the goal Judge raises the flag and extends the other arm.&#x20;
-* **3.5.2.4.** Timeout – Makes a “T” shape with both arms.&#x20;
+* **3.5.2.4.** Timeout – Makes a <mark style="background-color:yellow;">“T”</mark> shape with both arms.&#x20;
 
 ### **3.5.3. Assistant Referee**&#x20;
 
 * **3.5.3.1.** Infraction – Raises an arm in the air and the other pointing at the player that committed the infraction.&#x20;
-* **3.5.3.2.** Timeout – Makes a “T” shape with both arms.
+* **3.5.3.2.** Timeout – Makes a <mark style="background-color:yellow;">“T”</mark> shape with both arms.
 
