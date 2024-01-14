@@ -26,7 +26,7 @@ layout:
       * [x] The Ball Carrier is unable to continue playing the ball with the mallet.&#x20;
 
 
-  * **4.1.1.2.** Possession is not forfeited by the Ball Carrier if a deliberate touch on the ball by an opponent does not hinder the Ball Carrier’s ability to continue playing the ball with the mallet and its proximity to the ball remains within approximately 3m.
+  * **4.1.1.2.** Possession is not forfeited by the Ball Carrier if a deliberate touch on the ball by an opponent does not hinder the Ball Carrier’s ability to continue playing the ball with the mallet and its proximity to the ball remains within approximately `3m`.
 
 ## **4.2. Shooting**&#x20;
 
@@ -55,7 +55,7 @@ layout:
 ***
 
 * &#x20;**4.5.1.** A <mark style="background-color:yellow;">scoop</mark> is defined as maneuvering a ball cupped in any hole in the mallet using centripetal force to keep the ball cupped in such hole.&#x20;
-* **4.5.2.** Scooping is permitted below the height of the player’s handlebar or their opponent’s if the opposite player is closer than approximately 3m as per [6.4.3.3](section-6-infractions.md#id-6.4.3.-striking).&#x20;
+* **4.5.2.** Scooping is permitted below the height of the player’s handlebar or their opponent’s if the opposite player is closer than approximately `3m` as per [6.4.3.3](section-6-infractions.md#id-6.4.3.-striking).&#x20;
 * **4.5.3.** Scooping is permitted for no more than three (3) direction changes.
 
 ## **4.6. Carrying**&#x20;

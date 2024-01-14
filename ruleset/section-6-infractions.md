@@ -62,7 +62,7 @@ layout:
   * **6.1.3.1.2.2.** A stationary and/or momentary ‘screen’ does not result in a penalty if the action incidentally meets the position of the player.
   * **6.1.3.1.2.3.** Natural impedance of an opponent based on position and velocity does not result in a penalty.&#x20;
 * **6.1.3.1.3.** When contesting a loose ball, all players challenging for possession must move directly and naturally towards the ball or concede the ball.&#x20;
-  * **6.1.3.1.3.1.** A penalty is not issued if the nearest player to a loose ball utilizes a 'screen' within approximately 3m of the loose ball to safely gain possession.&#x20;
+  * **6.1.3.1.3.1.** A penalty is not issued if the nearest player to a loose ball utilizes a 'screen' within approximately `3m` of the loose ball to safely gain possession.&#x20;
   * **6.1.3.1.3.2.** A bike interference infraction is called if the player challenging for possession uses a screen to concede possession to another member of their team.&#x20;
 * **6.1.3.1.4.** A player who is not in possession is entitled to attempt a screen on the Ball Carrier.&#x20;
   * **6.1.3.1.4.1.** If a player in possession concedes or losses possession, that player can no longer be screened.&#x20;
@@ -70,7 +70,7 @@ layout:
 #### **6.1.3.2. Body Interference**&#x20;
 
 * **6.1.3.2.1.** <mark style="background-color:yellow;">A body interference</mark> infraction is called when a player initiates physical contact with an opponent who is not in possession.
-  * **6.1.3.2.1.1.** Players challenging for possession of a loose ball may engage each other physically as per [6.3](section-6-infractions.md#id-6.3.-bodily-contact-infractions) within 3m of the ball.&#x20;
+  * **6.1.3.2.1.1.** Players challenging for possession of a loose ball may engage each other physically as per [6.3](section-6-infractions.md#id-6.3.-bodily-contact-infractions) within `3m` of the ball.&#x20;
 
 #### **6.1.3.3. Mallet Interference**&#x20;
 
@@ -80,7 +80,7 @@ layout:
   * **6.1.3.3.2.2.** <mark style="background-color:yellow;">A mallet interference</mark> infraction will not be called when a defensive player within the crease clears the ball away while their teammate uses their mallet to initiates or continue contact with the mallet of the ball carrier within the crease.&#x20;
 *   **6.1.3.3.3.** <mark style="background-color:yellow;">A mallet interference</mark> infraction is called when a player uses their mallet to hook as per [6.4.6](section-6-infractions.md#id-6.4.6.-hooking) a member of an opposing team to concede possession to a member of their team.&#x20;
 
-    * **6.1.3.3.3.1.** A ball leaving the immediate vicinity of the players by approximately 3m will be considered a loose ball and will be deemed playable by any other player in the court.&#x20;
+    * **6.1.3.3.3.1.** A ball leaving the immediate vicinity of the players by approximately `3m` will be considered a loose ball and will be deemed playable by any other player in the court.&#x20;
 
 
 
@@ -189,11 +189,11 @@ layout:
 
 ### **6.4.4. High Sticking**&#x20;
 
-* **6.4.4.1.** A <mark style="background-color:yellow;">high sticking</mark> infraction is called when a player attempts to contact an airborne ball with the mallet at a height above the nearest opponent’s handlebars within approximately 3m.&#x20;
-  * **6.4.4.1.1.** A player located at a safe distance – approximately 3m or more – from their nearest opponent may place their mallet in the air, without swinging it, and deflect the ball to the ground directly below their mallet.&#x20;
+* **6.4.4.1.** A <mark style="background-color:yellow;">high sticking</mark> infraction is called when a player attempts to contact an airborne ball with the mallet at a height above the nearest opponent’s handlebars within approximately `3m`.&#x20;
+  * **6.4.4.1.1.** A player located at a safe distance – approximately `3m` or more – from their nearest opponent may place their mallet in the air, without swinging it, and deflect the ball to the ground directly below their mallet.&#x20;
   * **6.4.4.1.2.** A player is permitted to use their hand, with their mallet pointed straight down, to contact an airborne ball as per [4.7.2.1](section-4-ball-play.md#id-4.7.-grabbing).&#x20;
 * **6.4.4.2.** A <mark style="background-color:yellow;">high sticking</mark> infraction is called to all contact to a player’s body above the shoulders by an opponent’s mallet.&#x20;
-* **6.4.4.3.** A <mark style="background-color:yellow;">high sticking</mark> infraction is called if a scoop is raised above height of the player’s handlebar or an opponent’s handlebars within approximately 3m.&#x20;
+* **6.4.4.3.** A <mark style="background-color:yellow;">high sticking</mark> infraction is called if a scoop is raised above height of the player’s handlebar or an opponent’s handlebars within approximately `3m`.&#x20;
 * **6.4.4.4.** Windup and follow through associated with normal shooting motion that extends above the height of the nearest opponent’s handlebars is only subject to a <mark style="background-color:yellow;">high sticking</mark> infraction if the Main Referee deems the swing to be unsafe or out of control in the following situations:
   * [x] If the shot requires a full rotation of the mallet from above the players head to the ground.
   * [x] If the follow-through of the back-hand swing extends above the nearest opponent’s handlebars.&#x20;

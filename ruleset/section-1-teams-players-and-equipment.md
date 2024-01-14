@@ -70,10 +70,10 @@ layout:
 * **1.3.3.2.1.** The mallet head is made of a material that does not shatter, break or wears down to a sharp edge.&#x20;
 * **1.3.3.2.2.** A mallet must have an elongated shape and have only two (2) end-sides.&#x20;
 * **1.3.3.2.3.** The mallet head must be securely fastened to the shaft.&#x20;
-* **1.3.3.2.4.** The maximum length may not exceed 130mm at its longest point.
-* **1.3.3.2.5.** The maximum outside diameter may not exceed 65mm at its widest point.&#x20;
+* **1.3.3.2.4.** The maximum length may not exceed `130mm` at its longest point.
+* **1.3.3.2.5.** The maximum outside diameter may not exceed `65mm` at its widest point.&#x20;
 * **1.3.3.2.6.** The diameter of any hole at its outermost edge on the mallet head may not exceed 59mm at its widest point.&#x20;
-  * **1.3.3.2.6.1.** The minimum wall thickness between the outer diameter of the head and the outermost diameter of the hole is 1.5 ± 0.5mm.&#x20;
+  * **1.3.3.2.6.1.** The minimum wall thickness between the outer diameter of the head and the outermost diameter of the hole is `1.5 ± 0.5mm`.&#x20;
 
 #### **1.3.3.3. Grips**&#x20;
 
@@ -82,7 +82,7 @@ layout:
 ### **1.3.4. Bicycles**&#x20;
 
 * **1.3.4.1.** All bicycles must have at least one hand-operated braking mechanism.&#x20;
-* **1.3.4.2.** Handlebars must be a maximum length of 710mm at the longest point, including grips and plugs.&#x20;
+* **1.3.4.2.** Handlebars must be a maximum length of `710mm` at the longest point, including grips and plugs.&#x20;
   * **1.3.4.2.1.** Handlebars must be plugged or capped.
 * **1.3.4.3.** All sharp edges must be removed or covered.&#x20;
   * **1.3.4.3.1.** Disc brake rotors must be protected.&#x20;
