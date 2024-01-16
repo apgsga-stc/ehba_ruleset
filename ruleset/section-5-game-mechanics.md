@@ -102,7 +102,7 @@ layout:
   * **5.4.1.1.** The Main Referee may blow two short bursts on the whistle to elicit the confirmation of the team.&#x20;
   * **5.4.1.2.** If the team without possession does not communicate that they are ready within ten seconds `(10 sec)`, a Delay of Game Penalty is issued as per [6.1.1](section-6-infractions.md#id-6.1.1.-delay-of-game).&#x20;
 * **5.4.2.** After the confirmation, the Main Referee indicates live play as per [3.5.1.2](section-3-game-officials.md#id-3.5.1.-main-referee) and announcing <mark style="background-color:yellow;">"ten seconds to cross"</mark>.&#x20;
-  * **5.4.2.1.** If the team with possession does not begin play within ten seconds `(10 sec)` of the other team confirming they are ready the team without possession can begin play by crossing the half-court line.&#x20;
+  * **5.4.2.1.** If the team with possession does not begin play within ten seconds `(10sec)` of the other team confirming they are ready the team without possession can begin play by crossing the half-court line.&#x20;
     * **5.4.2.1.1.** The Main Referee signals <mark style="background-color:yellow;">"game on”</mark>.&#x20;
     * **5.4.2.1.2.** The Game Assistant starts the game clock.&#x20;
   * **5.4.3.** Play begins and the clock starts when the ball or a player from the team in possession crosses the half–court line.&#x20;
