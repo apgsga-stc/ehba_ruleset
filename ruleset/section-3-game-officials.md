@@ -128,7 +128,7 @@ layout:
     * [x] After goals.
     * [x] Half-time.
     * [x] Restart of play.
-    * [x] Two minutes `(2 min)` from the end.
+    * [x] Two minutes `(2min)` from the end.
     * [x] By player’s request.&#x20;
 
 

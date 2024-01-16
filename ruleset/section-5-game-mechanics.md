@@ -64,7 +64,7 @@ layout:
     * [x] Repair of game facilities&#x20;
 
 
-* **5.3.3.** Teams must stop playing and return to their half of the court within ten seconds `(10 sec)` of the whistle being blown.&#x20;
+* **5.3.3.** Teams must stop playing and return to their half of the court within ten seconds `(10sec)` of the whistle being blown.&#x20;
 
 ### **5.3.4. 3v3 format**&#x20;
 
@@ -80,7 +80,7 @@ layout:
 
 
 
-    * **5.3.5.1.1.** During the last two minutes `(2 min)` of the game, the Game Assistant stops the game clock at every stoppage of play.&#x20;
+    * **5.3.5.1.1.** During the last two minutes `(2min)` of the game, the Game Assistant stops the game clock at every stoppage of play.&#x20;
 
 ### **5.3.6. Squad Format**&#x20;
 
@@ -92,7 +92,7 @@ layout:
 
 
 
-    * **5.3.6.1.1.** During the last two minutes `(2 min)` of the game, the Game Assistant stops the game clock at every stoppage of play.
+    * **5.3.6.1.1.** During the last two minutes `(2min)` of the game, the Game Assistant stops the game clock at every stoppage of play.
 
 ## **5.4. Restart of Play**&#x20;
 
@@ -189,7 +189,7 @@ layout:
 * **5.9.4.3.** A substitute player can only be replaced on the team by the original player or by subsequent injury.&#x20;
   * **5.9.4.3.1.** Should an original player rejoin a team after a replacement, the team forfeits the opportunity for secondary replacement for that player.&#x20;
   * **5.9.4.3.2.** Additional injury, or inability of the player to continue, results in the team continuing without that player for the remainder of the tournament.&#x20;
-* **5.9.4.4.** A team is given a reasonable amount of time - not exceeding five minutes `(5 min)` – to find a replacement and have that player approved by the Head Referee.&#x20;
+* **5.9.4.4.** A team is given a reasonable amount of time - not exceeding five minutes `(5min)` – to find a replacement and have that player approved by the Head Referee.&#x20;
 * **5.9.4.5.** If a player is ejected from the tournament their team can only appeal for replacement after the game in which they were ejected.
 
 ## **5.10. Timeouts**
@@ -198,27 +198,27 @@ layout:
 
 ### **5.10.1. 3v3 Format**&#x20;
 
-* **5.10.1.1.** A team is granted two `(2)` timeouts per game of up to two minute `(2 min)` duration each.&#x20;
+* **5.10.1.1.** A team is granted two `(2)` timeouts per game of up to two minute `(2min)` duration each.&#x20;
   * **5.10.1.1.1.** Timeouts can be requested and taken consecutively if needed.&#x20;
-    * **5.10.1.1.1.1**. A team not ready to play at the ten second `(10 sec)` time limit past the two minutes `(2 min)` of their first timeout must request, if available, their second timeout to extend the stoppage of play.&#x20;
-* **5.10.1.2.** During any stoppage of play, either team may call for a timeout in order to extend the ten second `(10 sec)` time-limit before play resumes.
+    * **5.10.1.1.1.1**. A team not ready to play at the ten second `(10sec)` time limit past the two minutes `(2min)` of their first timeout must request, if available, their second timeout to extend the stoppage of play.&#x20;
+* **5.10.1.2.** During any stoppage of play, either team may call for a timeout in order to extend the ten second `(10sec)` time-limit before play resumes.
   * **5.10.1.2.1.** The team who is entitled possession when the game restarts does not forfeit their possession to their opponent.&#x20;
 * **5.10.1.3.** During live game play, a team can call for a stoppage in play by gaining possession and audibly yelling <mark style="background-color:yellow;">“Timeout”</mark> to the Main Referee.&#x20;
   * **5.10.1.3.1.** The team forfeits possession to the opponent.&#x20;
     * **5.10.1.3.1.1.** Timeouts requested during live play due to a broken ball or an injured player requiring immediate medical attention will result in the team keeping possession after play restarts and have no influence on their team’s timeout allotment.&#x20;
     * **5.10.1.3.1.2.** At the expiration of the timeout, or when the team which called for the timeout declares they are ready, the game may restart as per [5.4](section-5-game-mechanics.md#id-5.4.-restart-of-play).&#x20;
 * **5.10.1.4.** Goal judges and the Assistant Referee may signal the request to the Main Referee as per [3.5.2.4](section-3-game-officials.md#id-3.5.2.-goal-judges).&#x20;
-* **5.10.1.5.** Mechanical issues requiring repair on a player’s bike or equipment, caused by the opposing team may be granted a five minute `(5 min)` timeout by the Main Referee.&#x20;
+* **5.10.1.5.** Mechanical issues requiring repair on a player’s bike or equipment, caused by the opposing team may be granted a five minute `(5min)` timeout by the Main Referee.&#x20;
   * **5.10.1.5.1.** This timeout has no influence on a team’s timeout allotment.&#x20;
   * **5.10.1.5.2.** A team may extend into their available timeouts if needed.&#x20;
   * **5.10.1.5.3.** The team who is entitled possession when the game restarts does not forfeit their possession to their opponent.&#x20;
 
 ### **5.10.2. Quads Format**&#x20;
 
-* **5.10.2.1.** A team is granted two `(2)` timeouts per game of up to one minute `(1 min)` duration each.&#x20;
+* **5.10.2.1.** A team is granted two `(2)` timeouts per game of up to one minute `(1min)` duration each.&#x20;
   * **5.10.2.1.1.** Timeouts can be requested and taken consecutively if needed.&#x20;
-    * **5.10.2.1.1.1.** A team not ready to play at the ten second `(10 sec)` time limit past the one minute `(1 min)` of their first timeout must request, if available, their second timeout to extend the stoppage of play.&#x20;
-* **5.10.2.2.** On courts that do not permit changes during live play, teams may request up to two `(2)` additional thirty seconds `(30 sec)` timeouts for changing their lineup while in possession.&#x20;
+    * **5.10.2.1.1.1.** A team not ready to play at the ten second `(10sec)` time limit past the one minute `(1min)` of their first timeout must request, if available, their second timeout to extend the stoppage of play.&#x20;
+* **5.10.2.2.** On courts that do not permit changes during live play, teams may request up to two `(2)` additional thirty seconds `(30sec)` timeouts for changing their lineup while in possession.&#x20;
 * **5.10.2.3.** Mechanical issues requiring repair on a player’s bike or equipment will result in the substitution of the player by another member of their team with no stoppage of play as per [5.13.1](section-5-game-mechanics.md#id-5.13.-bench-mechanics).&#x20;
 * **5.10.2.4.** During live game play, a team can call for a stoppage in play by gaining possession and audibly yelling <mark style="background-color:yellow;">“Timeout”</mark> to the Main Referee.&#x20;
   * **5.10.2.4.1.** The team forfeits possession to the opponent.&#x20;

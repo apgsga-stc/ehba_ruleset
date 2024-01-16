@@ -30,7 +30,7 @@ layout:
 * **7.2.3.** A Minor Penalty is issued for any infraction as per [Section 6](section-6-infractions.md) within the crease on the Ball Carrier.&#x20;
 * **7.2.4.** A Minor Penalty may be issued due to personal foul procedure as per [8.6](section-8-penalty-procedure.md#id-8.6.-personal-fouls).&#x20;
 * **7.2.5.** A Minor Penalty may be issued for inappropriate, foul, or otherwise disrespectful language or behavior.
-* **7.2.6.** Possession is granted to the fouled team and play restarts as per [5.4](section-5-game-mechanics.md#id-5.4.-restart-of-play) with a Player Advantage of thirty seconds `(30 sec)` as per [8.5](section-8-penalty-procedure.md#id-8.5.-player-advantage).&#x20;
+* **7.2.6.** Possession is granted to the fouled team and play restarts as per [5.4](section-5-game-mechanics.md#id-5.4.-restart-of-play) with a Player Advantage of thirty seconds `(30sec)` as per [8.5](section-8-penalty-procedure.md#id-8.5.-player-advantage).&#x20;
   * **7.2.6.1.** The Player Advantage ends if the team on advantage scores.&#x20;
 
 ## **7.3. Major Penalty**&#x20;
@@ -39,7 +39,7 @@ layout:
 
 * **7.3.1.** A Major Penalty is issued for any action that the Main Referee deems to be dangerous or reckless in nature, or if a player was already issued a Minor Penalty for the same infraction.&#x20;
 * **7.3.2.** A Major Penalty may be issued due to personal foul procedure as per [8.6](section-8-penalty-procedure.md#id-8.6.-personal-fouls).&#x20;
-* **7.3.3.** Possession is granted to the fouled team and play restarts as per [5.4](section-5-game-mechanics.md#id-5.4.-restart-of-play) with a Player Advantage of one minute `(1 min)`.&#x20;
+* **7.3.3.** Possession is granted to the fouled team and play restarts as per [5.4](section-5-game-mechanics.md#id-5.4.-restart-of-play) with a Player Advantage of one minute `(1min)`.&#x20;
   * **7.3.3.1.** The Player Advantage continues for the duration of the penalty regardless of teams scoring.&#x20;
     * **7.3.3.1.1.** The Player Advantage ends if the team on advantage scores, only if the Major Penalty is issued due to Personal Foul procedure as per [8.6.1.2.1](section-8-penalty-procedure.md#id-8.6.-personal-fouls).
 
