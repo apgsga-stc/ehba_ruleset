@@ -85,7 +85,7 @@ layout:
 
 ### **8.5.6. Squad format**&#x20;
 
-* **8.5.6.1.** The penalized team may replace the two (2) active on-court players before and during a Player Advantage by any member of the team excluding the player who committed the infraction.&#x20;
+* **8.5.6.1.** The penalized team may replace the two `(2)` active on-court players before and during a Player Advantage by any member of the team excluding the player who committed the infraction.&#x20;
 * **8.5.6.2.** A running game clock does not affect the timer of the Player Advantage.
 
 ## **8.6. Personal Fouls**

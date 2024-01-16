@@ -38,7 +38,7 @@ layout:
   * **5.2.2.2.** Teams can agree on a left-sided joust, but must inform the Main Referee prior to the beginning of the game.&#x20;
     * **5.2.2.2.1.** In case of a disagreement, the side of the joust will be determined by the side the Majority of players hold their mallet.&#x20;
   * **5.2.2.3.** On a right-sided joust, the jousting player must ride to the left of their opponent as they pass each other. On a left-sided joust, the jousting player must ride to the right of the opponent.&#x20;
-* **5.2.3.** Only one (1) player per team may joust.&#x20;
+* **5.2.3.** Only one `(1)` player per team may joust.&#x20;
   * **5.2.3.1.** Jousting players must maintain a straight line until a player makes contact with the ball.&#x20;
   * **5.2.3.2.** Any player that is rushing towards the ball at a consistent pace is considered to be jousting.&#x20;
     * **5.2.3.2.1.** Players may not desist jousting once they are approximately `3m` away from the ball.&#x20;
@@ -175,7 +175,7 @@ layout:
 ### **5.9.2. Quads Format**&#x20;
 
 * **5.9.2.1.** A team may not replace any players during a game.&#x20;
-* **5.9.2.2.** A team must continue playing with three (3) players until a suitable replacement is found and approved as per [5.9.4](section-5-game-mechanics.md#id-5.9.4.-general-replacement-procedure).&#x20;
+* **5.9.2.2.** A team must continue playing with three `(3)` players until a suitable replacement is found and approved as per [5.9.4](section-5-game-mechanics.md#id-5.9.4.-general-replacement-procedure).&#x20;
 
 ### **5.9.3. Squad Format**&#x20;
 

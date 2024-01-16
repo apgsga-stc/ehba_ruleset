@@ -22,7 +22,7 @@ layout:
 *   **3.1.2.** A game requires the following officials:
 
     * [x] Main Referee
-    * [x] Two (2) Goal Judges
+    * [x] Two `(2)` Goal Judges
     * [x] Game Assistant
     * [x] Assistant Referee&#x20;
 
@@ -42,7 +42,7 @@ layout:
   * [x] Stopwatch
   * [x] Whistle
   * [x] Scoreboard
-  * [x] Flags, hats or vests (2) for Goal Judges
+  * [x] Flags, hats or vests `(2)` for Goal Judges
   * [x] Pen and paper
   * [x] Bike check stickers, tape, or similar markers
   * [x] Vests for players

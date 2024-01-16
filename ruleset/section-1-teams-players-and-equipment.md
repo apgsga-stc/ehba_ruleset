@@ -20,16 +20,16 @@ layout:
 
 ### **1.1.1. 3v3 Format**&#x20;
 
-* **1.1.1.1.** There are three (3) players to a team.&#x20;
+* **1.1.1.1.** There are three `(3)` players to a team.&#x20;
 
 ### **1.1.2. Quads Format**&#x20;
 
-* **1.1.2.1.** There are four (4) players to a team.&#x20;
+* **1.1.2.1.** There are four `(4)` players to a team.&#x20;
 
 ### **1.1.3. Squad Format**&#x20;
 
-* **1.1.3.1.** There can be anywhere between four (4) to six (6) players to a team.&#x20;
-  * **1.1.3.1.1.** A team can only have a maximum of five (5) available players at any given game.&#x20;
+* **1.1.3.1.** There can be anywhere between four `(4)` to six `(6)` players to a team.&#x20;
+  * **1.1.3.1.1.** A team can only have a maximum of five `(5)` available players at any given game.&#x20;
     * **1.1.3.1.1.1.** Players must be selected before the game begins and the team must inform the Game Assistant prior to the beginning of the game.
 
 ## **1.2. Team Captains**&#x20;
@@ -55,7 +55,7 @@ layout:
 ### **1.3.2. Safety Equipment**&#x20;
 
 * **1.3.2.1.** Players must wear a sports approved helmet while on the court.&#x20;
-* **1.3.2.2.** Gloves, shin and /or knee guards, face-cages and other protective gear are not mandatory, but encouraged.&#x20;
+* **1.3.2.2.** Gloves, shin and/or knee guards, face-cages and other protective gear are not mandatory, but encouraged.&#x20;
 
 ### **1.3.3. Mallets**&#x20;
 
@@ -63,12 +63,12 @@ layout:
 
 * **1.3.3.1.1.** The shaft must be made of a metal alloy or composite material that is not susceptible to break from what is considered normal play.&#x20;
 * **1.3.3.1.2.** The gripped end of the shaft must be plugged or sealed.&#x20;
-* **1.3.3.1.3.** The shaft must not protrude through the bottom of the mallet head by more than 3mm.&#x20;
+* **1.3.3.1.3.** The shaft must not protrude through the bottom of the mallet head by more than `3mm`.&#x20;
 
 #### **1.3.3.2. Mallet Head**&#x20;
 
 * **1.3.3.2.1.** The mallet head is made of a material that does not shatter, break or wears down to a sharp edge.&#x20;
-* **1.3.3.2.2.** A mallet must have an elongated shape and have only two (2) end-sides.&#x20;
+* **1.3.3.2.2.** A mallet must have an elongated shape and have only two `(2)` end-sides.&#x20;
 * **1.3.3.2.3.** The mallet head must be securely fastened to the shaft.&#x20;
 * **1.3.3.2.4.** The maximum length may not exceed `130mm` at its longest point.
 * **1.3.3.2.5.** The maximum outside diameter may not exceed `65mm` at its widest point.&#x20;

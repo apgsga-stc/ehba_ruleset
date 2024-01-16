@@ -61,12 +61,12 @@ layout:
 * **2.1.4.3.** Goal Lines must be parallel to the backboard and `3 to 4.5m` from it, depending on court size.&#x20;
   * **2.1.4.3.1.** Goal Lines cannot be less than `29 ± 0.5m` apart from each other.&#x20;
 * **2.1.4.4.** Goal Lines must be marked for the positioning of the Goalmouths, centered in regard to the width of the court, defining what will be referred to as the Goalmouth Line.
-  * &#x20;**2.1.4.4.1.** The Goalmouth Line must be bound by two (2) perpendicular lines extending `10 ± 1cm` towards center-court and `20 ± 1cm` towards the back of the goal.&#x20;
+  * &#x20;**2.1.4.4.1.** The Goalmouth Line must be bound by two `(2)` perpendicular lines extending `10 ± 1cm` towards center-court and `20 ± 1cm` towards the back of the goal.&#x20;
   * **2.1.4.4.2.** The two vertical lines must coincide with the dimensions of the goals used, taking the inside of the goalposts as reference.
 
 ### **2.1.5. Tap-in Area**&#x20;
 
-* **2.1.5.1.** Two (2) lines will be marked on the boards on both sides of the court and will be referred to as the <mark style="background-color:yellow;">tap-in area</mark>.&#x20;
+* **2.1.5.1.** Two `(2)` lines will be marked on the boards on both sides of the court and will be referred to as the <mark style="background-color:yellow;">tap-in area</mark>.&#x20;
 * **2.1.5.2.** The lines will be drawn `0.75 ± 0.10m` from the center line at each side.&#x20;
 
 ### **2.1.6. Crease**&#x20;

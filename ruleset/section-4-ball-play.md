@@ -22,7 +22,7 @@ layout:
   *   **4.1.1.1.** No player is considered to be in possession, or possession is forfeited, if either:
 
       * [x] The ball moves approximately `3m` away from the Ball Carrier.
-      * [x] The ball moves so quickly through a player's immediate proximity they cannot make more than one (1) controlled touch on the loose ball.
+      * [x] The ball moves so quickly through a player's immediate proximity they cannot make more than one `(1)` controlled touch on the loose ball.
       * [x] The Ball Carrier is unable to continue playing the ball with the mallet.&#x20;
 
 
@@ -56,7 +56,7 @@ layout:
 
 * &#x20;**4.5.1.** A <mark style="background-color:yellow;">scoop</mark> is defined as maneuvering a ball cupped in any hole in the mallet using centripetal force to keep the ball cupped in such hole.&#x20;
 * **4.5.2.** Scooping is permitted below the height of the player’s handlebar or their opponent’s if the opposite player is closer than approximately `3m` as per [6.4.3.3](section-6-infractions.md#id-6.4.3.-striking).&#x20;
-* **4.5.3.** Scooping is permitted for no more than three (3) direction changes.
+* **4.5.3.** Scooping is permitted for no more than three `(3)` direction changes.
 
 ## **4.6. Carrying**&#x20;
 
