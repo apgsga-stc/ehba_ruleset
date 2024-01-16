@@ -133,7 +133,7 @@ layout:
 
 
 
-    * **3.4.4.6.1.** After the two minute warning, the Game Assistant must call out sixty seconds, thirty seconds, ten seconds and a countdown from five seconds to one.
+    * **3.4.4.6.1.** After the two minute warning, the Game Assistant must call out sixty seconds `(60sec)`, thirty seconds `(30sec)`, ten seconds `(10sec)` and a countdown from five seconds `(5sec)` to one `(1sec)`.
 
 ### **3.4.5. Assistant Referee**&#x20;
 
