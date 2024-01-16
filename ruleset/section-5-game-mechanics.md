@@ -180,7 +180,7 @@ layout:
 ### **5.9.3. Squad Format**&#x20;
 
 * **5.9.3.1.** A team may not replace any players during a game.&#x20;
-* **5.9.3.2.** A team may not appeal to the Main Referee for replacement of a player until the team has less than four (4) uninjured players available to play.&#x20;
+* **5.9.3.2.** A team may not appeal to the Main Referee for replacement of a player until the team has less than four `(4)` uninjured players available to play.&#x20;
 
 ### **5.9.4. General Replacement Procedure**&#x20;
 
