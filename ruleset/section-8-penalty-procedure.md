@@ -76,16 +76,16 @@ layout:
     * **8.5.1.1.1.** The offending player must not interfere with play while serving the penalty&#x20;
 * **8.5.2.** Play will restart as per [5.4](section-5-game-mechanics.md#id-5.4.-restart-of-play).&#x20;
 * **8.5.3.** The offending player may only re-enter play when the Game Assistant indicates they may reincorporate play.&#x20;
-  * **8.5.3.1.** The Game Assistant counts down from 5 seconds and to 0 and extends an arm towards the door where the player re-enters play.&#x20;
+  * **8.5.3.1.** The Game Assistant counts down from five seconds `(5 sec)` and to 0 and extends an arm towards the door where the player re-enters play.&#x20;
   * **8.5.3.2.** When a player re-enters play they are not required to 'tap in' and are considered an active player from the moment they cross the threshold of the court.&#x20;
   * **8.5.3.3.** A player must use the door on their side of the court for re-entering play.&#x20;
 * **8.5.4.** All game stoppages stop the timer of the Player Advantage.&#x20;
-* **8.5.5.** If the penalized team is issued an additional Minor or Major Penalty during a Player Advantage, the duration of the Player Advantage is extended 30 seconds or 1 minute, based on the severity of the most recent penalty.&#x20;
+* **8.5.5.** If the penalized team is issued an additional Minor or Major Penalty during a Player Advantage, the duration of the Player Advantage is extended thirty seconds `(30 sec)` or one minute `(1 min)`, based on the severity of the most recent penalty.&#x20;
   * **8.5.5.1.** The player who committed the more severe penalty remains off the court for the duration of the Player Advantage, at the discretion of the Main Referee.&#x20;
 
 ### **8.5.6. Squad format**&#x20;
 
-* **8.5.6.1.** The penalized team may replace the 2 active on-court players before and during a Player Advantage by any member of the team excluding the player who committed the infraction.&#x20;
+* **8.5.6.1.** The penalized team may replace the two (2) active on-court players before and during a Player Advantage by any member of the team excluding the player who committed the infraction.&#x20;
 * **8.5.6.2.** A running game clock does not affect the timer of the Player Advantage.
 
 ## **8.6. Personal Fouls**

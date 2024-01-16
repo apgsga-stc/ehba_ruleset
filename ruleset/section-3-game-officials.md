@@ -22,7 +22,7 @@ layout:
 *   **3.1.2.** A game requires the following officials:
 
     * [x] Main Referee
-    * [x] Goal Judges (2)
+    * [x] Two (2) Goal Judges
     * [x] Game Assistant
     * [x] Assistant Referee&#x20;
 
@@ -128,7 +128,7 @@ layout:
     * [x] After goals.
     * [x] Half-time.
     * [x] Restart of play.
-    * [x] Two (2) minutes from the end.
+    * [x] Two minutes `(2 min)` from the end.
     * [x] By player’s request.&#x20;
 
 
