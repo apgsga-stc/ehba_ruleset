@@ -198,7 +198,7 @@ layout:
 
 ### **5.10.1. 3v3 Format**&#x20;
 
-* **5.10.1.1.** A team is granted two (2) timeouts per game of up to two minute `(2 min)` duration each.&#x20;
+* **5.10.1.1.** A team is granted two `(2)` timeouts per game of up to two minute `(2 min)` duration each.&#x20;
   * **5.10.1.1.1.** Timeouts can be requested and taken consecutively if needed.&#x20;
     * **5.10.1.1.1.1**. A team not ready to play at the ten second `(10 sec)` time limit past the two minutes `(2 min)` of their first timeout must request, if available, their second timeout to extend the stoppage of play.&#x20;
 * **5.10.1.2.** During any stoppage of play, either team may call for a timeout in order to extend the ten second `(10 sec)` time-limit before play resumes.
@@ -215,10 +215,10 @@ layout:
 
 ### **5.10.2. Quads Format**&#x20;
 
-* **5.10.2.1.** A team is granted two (2) timeouts per game of up to one minute `(1 min)` duration each.&#x20;
+* **5.10.2.1.** A team is granted two `(2)` timeouts per game of up to one minute `(1 min)` duration each.&#x20;
   * **5.10.2.1.1.** Timeouts can be requested and taken consecutively if needed.&#x20;
     * **5.10.2.1.1.1.** A team not ready to play at the ten second `(10 sec)` time limit past the one minute `(1 min)` of their first timeout must request, if available, their second timeout to extend the stoppage of play.&#x20;
-* **5.10.2.2.** On courts that do not permit changes during live play, teams may request up to two (2) additional thirty seconds `(30 sec)` timeouts for changing their lineup while in possession.&#x20;
+* **5.10.2.2.** On courts that do not permit changes during live play, teams may request up to two `(2)` additional thirty seconds `(30 sec)` timeouts for changing their lineup while in possession.&#x20;
 * **5.10.2.3.** Mechanical issues requiring repair on a player’s bike or equipment will result in the substitution of the player by another member of their team with no stoppage of play as per [5.13.1](section-5-game-mechanics.md#id-5.13.-bench-mechanics).&#x20;
 * **5.10.2.4.** During live game play, a team can call for a stoppage in play by gaining possession and audibly yelling <mark style="background-color:yellow;">“Timeout”</mark> to the Main Referee.&#x20;
   * **5.10.2.4.1.** The team forfeits possession to the opponent.&#x20;
@@ -259,16 +259,16 @@ layout:
 
 ### **5.13.1. Quads Format**&#x20;
 
-* **5.13.1.1.** A team is allowed to substitute their bench players for one of the three (3) active players on the court by entering and exiting through their designated door on their defensive half of the court.&#x20;
+* **5.13.1.1.** A team is allowed to substitute their bench players for one of the three `(3)` active players on the court by entering and exiting through their designated door on their defensive half of the court.&#x20;
   * **5.13.1.1.1.** On courts that do not allow for live play changes, players must request a lineup change timeout as per [5.10.2.1](section-5-game-mechanics.md#id-5.10.2.-quads-format).&#x20;
     * **5.13.1.1.1.1.** During stoppages, a team is allowed to substitute players within the time limits as per [5.4](section-5-game-mechanics.md#id-5.4.-restart-of-play).&#x20;
-  * **5.13.1.1.2.** On a team of three (3) players, any player being unable to continue play during a game, by either a mechanical or an injury will result in a player advantage for the opposing team as per [8.5](section-8-penalty-procedure.md#id-8.5.-player-advantage) until such player is able to reintegrate the game.&#x20;
+  * **5.13.1.1.2.** On a team of three `(3)` players, any player being unable to continue play during a game, by either a mechanical or an injury will result in a player advantage for the opposing team as per [8.5](section-8-penalty-procedure.md#id-8.5.-player-advantage) until such player is able to reintegrate the game.&#x20;
 * **5.13.1.2.** Prior to a new player entering the court, the player attempting to exit the court must be within the transition area that is a `3 ± 0.5m` boundary from the center of their team's designated door.
   * **5.13.1.2.1.** If either player entering or exiting the court interacts with a loose ball or interferes with an opponent while the substitution is occurring, an Illegal Substitution infraction is called as per [6.1.5](section-6-infractions.md#id-6.1.-technical-infractions).
 
 ### **5.13.2. Squad Format**&#x20;
 
-* **5.13.2.1.** A team is allowed to substitute any of their bench players for one of the three (3) active players on the court by entering and exiting through their designated door on their defensive half of the court.&#x20;
+* **5.13.2.1.** A team is allowed to substitute any of their bench players for one of the three `(3)` active players on the court by entering and exiting through their designated door on their defensive half of the court.&#x20;
 * **5.13.2.2.** Prior to a new player entering the court, the player attempting to exit the court must be within the transition area that is a `3 ± 0.5m` boundary from the center of their team's designated door.&#x20;
   * **5.13.2.2.1.** If either player entering or exiting the court interacts with a loose ball or interferes with an opponent carrying ball while the substitution is occurring, an Illegal Substitution infraction is called as per [6.1.5](section-6-infractions.md#id-6.1.-technical-infractions).
 
