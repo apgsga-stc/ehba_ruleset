@@ -42,7 +42,7 @@ layout:
   * [x] Stopwatch
   * [x] Whistle
   * [x] Scoreboard
-  * [x] Flags, hats or vests `(2)` for Goal Judges
+  * [x] Flags, hats or vests for two `(2)` Goal Judges
   * [x] Pen and paper
   * [x] Bike check stickers, tape, or similar markers
   * [x] Vests for players
