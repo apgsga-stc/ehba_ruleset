@@ -64,7 +64,7 @@ layout:
     * [x] Repair of game facilities&#x20;
 
 
-* **5.3.3.** Teams must stop playing and return to their half of the court within ten seconds `(10sec)` of the whistle being blown.&#x20;
+* **5.3.3.** Teams must stop playing and return to their half of the court within ten seconds `(10s)` of the whistle being blown.&#x20;
 
 ### **5.3.4. 3v3 format**&#x20;
 
@@ -100,9 +100,9 @@ layout:
 
 * **5.4.1.** The Main Referee elicits verbal or visual confirmation that the team without possession is ready to begin play.&#x20;
   * **5.4.1.1.** The Main Referee may blow two short bursts on the whistle to elicit the confirmation of the team.&#x20;
-  * **5.4.1.2.** If the team without possession does not communicate that they are ready within ten seconds `(10sec)`, a Delay of Game Penalty is issued as per [6.1.1](section-6-infractions.md#id-6.1.1.-delay-of-game).&#x20;
+  * **5.4.1.2.** If the team without possession does not communicate that they are ready within ten seconds `(10s)`, a Delay of Game Penalty is issued as per [6.1.1](section-6-infractions.md#id-6.1.1.-delay-of-game).&#x20;
 * **5.4.2.** After the confirmation, the Main Referee indicates live play as per [3.5.1.2](section-3-game-officials.md#id-3.5.1.-main-referee) and announcing <mark style="background-color:yellow;">"ten seconds to cross"</mark>.&#x20;
-  * **5.4.2.1.** If the team with possession does not begin play within ten seconds `(10sec)` of the other team confirming they are ready the team without possession can begin play by crossing the half-court line.&#x20;
+  * **5.4.2.1.** If the team with possession does not begin play within ten seconds `(10s)` of the other team confirming they are ready the team without possession can begin play by crossing the half-court line.&#x20;
     * **5.4.2.1.1.** The Main Referee signals <mark style="background-color:yellow;">"game on”</mark>.&#x20;
     * **5.4.2.1.2.** The Game Assistant starts the game clock.&#x20;
   * **5.4.3.** Play begins and the clock starts when the ball or a player from the team in possession crosses the half–court line.&#x20;
@@ -200,8 +200,8 @@ layout:
 
 * **5.10.1.1.** A team is granted two `(2)` timeouts per game of up to two minute `(2min)` duration each.&#x20;
   * **5.10.1.1.1.** Timeouts can be requested and taken consecutively if needed.&#x20;
-    * **5.10.1.1.1.1**. A team not ready to play at the ten second `(10sec)` time limit past the two minutes `(2min)` of their first timeout must request, if available, their second timeout to extend the stoppage of play.&#x20;
-* **5.10.1.2.** During any stoppage of play, either team may call for a timeout in order to extend the ten second `(10sec)` time-limit before play resumes.
+    * **5.10.1.1.1.1**. A team not ready to play at the ten second `(10s)` time limit past the two minutes `(2min)` of their first timeout must request, if available, their second timeout to extend the stoppage of play.&#x20;
+* **5.10.1.2.** During any stoppage of play, either team may call for a timeout in order to extend the ten second `(10s)` time-limit before play resumes.
   * **5.10.1.2.1.** The team who is entitled possession when the game restarts does not forfeit their possession to their opponent.&#x20;
 * **5.10.1.3.** During live game play, a team can call for a stoppage in play by gaining possession and audibly yelling <mark style="background-color:yellow;">“Timeout”</mark> to the Main Referee.&#x20;
   * **5.10.1.3.1.** The team forfeits possession to the opponent.&#x20;
@@ -217,8 +217,8 @@ layout:
 
 * **5.10.2.1.** A team is granted two `(2)` timeouts per game of up to one minute `(1min)` duration each.&#x20;
   * **5.10.2.1.1.** Timeouts can be requested and taken consecutively if needed.&#x20;
-    * **5.10.2.1.1.1.** A team not ready to play at the ten second `(10sec)` time limit past the one minute `(1min)` of their first timeout must request, if available, their second timeout to extend the stoppage of play.&#x20;
-* **5.10.2.2.** On courts that do not permit changes during live play, teams may request up to two `(2)` additional thirty seconds `(30sec)` timeouts for changing their lineup while in possession.&#x20;
+    * **5.10.2.1.1.1.** A team not ready to play at the ten second `(10s)` time limit past the one minute `(1min)` of their first timeout must request, if available, their second timeout to extend the stoppage of play.&#x20;
+* **5.10.2.2.** On courts that do not permit changes during live play, teams may request up to two `(2)` additional thirty seconds `(30s)` timeouts for changing their lineup while in possession.&#x20;
 * **5.10.2.3.** Mechanical issues requiring repair on a player’s bike or equipment will result in the substitution of the player by another member of their team with no stoppage of play as per [5.13.1](section-5-game-mechanics.md#id-5.13.-bench-mechanics).&#x20;
 * **5.10.2.4.** During live game play, a team can call for a stoppage in play by gaining possession and audibly yelling <mark style="background-color:yellow;">“Timeout”</mark> to the Main Referee.&#x20;
   * **5.10.2.4.1.** The team forfeits possession to the opponent.&#x20;

@@ -48,7 +48,7 @@ layout:
 
 ***
 
-* **4.4.1.** <mark style="background-color:yellow;">Ball–jointing</mark> is defined as applying pressure on the ball using any hole or concave surface of the mallet head in order to trap it against any playing surface on the court. Ball–jointing is permitted for a time period of two seconds `(2sec)` anywhere on the court.
+* **4.4.1.** <mark style="background-color:yellow;">Ball–jointing</mark> is defined as applying pressure on the ball using any hole or concave surface of the mallet head in order to trap it against any playing surface on the court. Ball–jointing is permitted for a time period of two seconds `(2s)` anywhere on the court.
 
 ## **4.5. Scooping**
 

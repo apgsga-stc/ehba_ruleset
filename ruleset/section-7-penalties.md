@@ -30,7 +30,7 @@ layout:
 * **7.2.3.** A Minor Penalty is issued for any infraction as per [Section 6](section-6-infractions.md) within the crease on the Ball Carrier.&#x20;
 * **7.2.4.** A Minor Penalty may be issued due to personal foul procedure as per [8.6](section-8-penalty-procedure.md#id-8.6.-personal-fouls).&#x20;
 * **7.2.5.** A Minor Penalty may be issued for inappropriate, foul, or otherwise disrespectful language or behavior.
-* **7.2.6.** Possession is granted to the fouled team and play restarts as per [5.4](section-5-game-mechanics.md#id-5.4.-restart-of-play) with a Player Advantage of thirty seconds `(30sec)` as per [8.5](section-8-penalty-procedure.md#id-8.5.-player-advantage).&#x20;
+* **7.2.6.** Possession is granted to the fouled team and play restarts as per [5.4](section-5-game-mechanics.md#id-5.4.-restart-of-play) with a Player Advantage of thirty seconds `(30s)` as per [8.5](section-8-penalty-procedure.md#id-8.5.-player-advantage).&#x20;
   * **7.2.6.1.** The Player Advantage ends if the team on advantage scores.&#x20;
 
 ## **7.3. Major Penalty**&#x20;
